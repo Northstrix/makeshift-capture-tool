@@ -6,7 +6,7 @@ echo    Makeshift Capture Tool  --  x64 Build
 echo  ================================================
 echo.
 
-set "VCPKG_ROOT=C:\mcp\vcpkg"
+set "VCPKG_ROOT=C:\mct\vcpkg"
 set "TRIPLET=x64-windows-static"
 set "BOOST_INC=%VCPKG_ROOT%\installed\%TRIPLET%\include"
 set "BOOST_LIB=%VCPKG_ROOT%\installed\%TRIPLET%\lib"

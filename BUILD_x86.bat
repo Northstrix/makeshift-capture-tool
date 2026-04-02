@@ -9,7 +9,7 @@ echo.
 echo  Run from: "x86 Native Tools Command Prompt for VS 2022"
 echo.
 
-set "VCPKG_ROOT=C:\mcp\vcpkg"
+set "VCPKG_ROOT=C:\mct\vcpkg"
 set "TRIPLET=x86-windows-static"
 set "BOOST_INC=%VCPKG_ROOT%\installed\%TRIPLET%\include"
 set "BOOST_LIB=%VCPKG_ROOT%\installed\%TRIPLET%\lib"
