@@ -1,2 +1,4 @@
-# makeshift-capture-tool
-Screenshot capture tool for Windows
+# Makeshift Capture Tool
+Screenshot capture tool for Windows.
+
+SourceForge page: https://sourceforge.net/projects/makeshift-capture-tool/
